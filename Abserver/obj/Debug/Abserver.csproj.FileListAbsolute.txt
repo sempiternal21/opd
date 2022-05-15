@@ -1,0 +1,7 @@
+C:\Users\AsisT\source\repos\Abserver\Abserver\bin\Debug\Abserver.exe.config
+C:\Users\AsisT\source\repos\Abserver\Abserver\bin\Debug\Abserver.exe
+C:\Users\AsisT\source\repos\Abserver\Abserver\bin\Debug\Abserver.pdb
+C:\Users\AsisT\source\repos\Abserver\Abserver\obj\Debug\Abserver.csproj.AssemblyReference.cache
+C:\Users\AsisT\source\repos\Abserver\Abserver\obj\Debug\Abserver.csproj.CoreCompileInputs.cache
+C:\Users\AsisT\source\repos\Abserver\Abserver\obj\Debug\Abserver.exe
+C:\Users\AsisT\source\repos\Abserver\Abserver\obj\Debug\Abserver.pdb
